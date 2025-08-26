@@ -92,7 +92,7 @@ Here are a few visualizations from the analysis:
 
 ![Top Products](https://github.com/Hariharan-T27/shopper-insights/blob/main/E-Commerce%20Data%20Insights/output%20images/Top%20Products.png?raw=true)
 ![Category Sales](https://github.com/Hariharan-T27/shopper-insights/blob/main/E-Commerce%20Data%20Insights/output%20images/Pie%20Chart.png)
-![Hourly Sales](output_images/hourly_sales.png)
+![Hourly Sales](https://github.com/Hariharan-T27/shopper-insights/blob/main/E-Commerce%20Data%20Insights/output%20images/Sales%20by%20Hour.png)
 ![Top Customers](output_images/top_customers.png)
 ![Top Ratings](output_images/top_ratings.png)
 
