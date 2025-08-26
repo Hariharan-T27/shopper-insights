@@ -112,9 +112,9 @@ Built with **Streamlit** and Plotly for instant interactivity.
 
 Check out the interactive Streamlit dashboard:
 
-![Dashboard KPIs](dashboard_images/dashboard_kpis.png)
-![Dashboard Trends](dashboard_images/dashboard_trends.png)
-![Dashboard Customers](dashboard_images/dashboard_customers.png)
+![Dashboard KPIs](https://github.com/Hariharan-T27/shopper-insights/blob/main/E-Commerce%20Data%20Insights/dashboard%20images/Dashbooard.png)
+![Dashboard Trends](https://github.com/Hariharan-T27/shopper-insights/blob/main/E-Commerce%20Data%20Insights/dashboard%20images/Revenue%20by%20category.png)
+![Dashboard Customers](https://github.com/Hariharan-T27/shopper-insights/blob/main/E-Commerce%20Data%20Insights/dashboard%20images/Top%20customers.png)
 
 ##  4. Dashboard Customization (config.toml)
 Change the app's appearance (colors, font) using this config file. Example settings:
