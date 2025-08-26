@@ -90,7 +90,7 @@ Key analyses and visualizations include:
 ### Sample Output Visualizations
 Here are a few visualizations from the analysis:
 
-![Top Products](output_images/top_products.png)
+![Top Products](E-Commerce Data Insights/output images/Top Products.png)
 ![Category Sales](output_images/category_sales.png)
 ![Hourly Sales](output_images/hourly_sales.png)
 ![Top Customers](output_images/top_customers.png)
