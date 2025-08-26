@@ -1,0 +1,201 @@
+ProductID,ProductName,Category,Price
+P0001,Samsung Galaxy A54,Electronics,18999
+P0002,Apple iPhone 14,Electronics,69999
+P0003,OnePlus Nord CE 3,Electronics,23999
+P0004,Nike Air Zoom Pegasus,Fashion,8999
+P0005,Adidas Ultraboost,Fashion,10999
+P0006,Levi's 511 Slim Jeans,Fashion,3999
+P0007,Wooden Coffee Table,Home,7499
+P0008,LG Smart LED TV 43 inch,Electronics,32999
+P0009,Puma Running Shoes,Fashion,6499
+P0010,L'Oreal Paris Shampoo,Beauty,499
+P0011,Dove Moisturizing Lotion,Beauty,299
+P0012,Philips Hair Dryer,Beauty,1999
+P0013,Spalding Basketball,Sports,1499
+P0014,Yonex Badminton Racket,Sports,2499
+P0015,Wilson Tennis Racquet,Sports,7999
+P0016,Prestige Non-Stick Pan,Home,1599
+P0017,Amazon Echo Dot,Electronics,4499
+P0018,HP Pavilion Laptop,Electronics,62999
+P0019,Apple MacBook Air,Electronics,99999
+P0020,Kindle Paperwhite,Electronics,12999
+P0021,Office Chair,Home,5999
+P0022,Study Desk,Home,8999
+P0023,Noise Smartwatch,Electronics,2999
+P0024,BoAt Rockerz 550 Headphones,Electronics,1999
+P0025,Canon EOS 1500D Camera,Electronics,38999
+P0026,Cosco Football,Sports,1299
+P0027,ASICS Gel Kayano Shoes,Fashion,11999
+P0028,Ray-Ban Aviator Sunglasses,Fashion,9999
+P0029,KitchenAid Blender,Home,17999
+P0030,Milton Steel Water Bottle,Home,899
+P0031,Nikon D5600 DSLR,Electronics,45999
+P0032,Sony PlayStation 5,Electronics,49999
+P0033,Xiaomi Mi Band 6,Electronics,2499
+P0034,Casio Analog Watch,Fashion,4999
+P0035,Fastrack Backpack,Fashion,1999
+P0036,Reebok Classic Sneakers,Fashion,6499
+P0037,Bajaj Mixer Grinder,Home,5999
+P0038,Bosch Washing Machine,Home,25999
+P0039,Whirlpool Refrigerator,Home,29999
+P0040,Tata Tea Premium,Home,599
+P0041,Colgate Toothpaste Pack,Beauty,249
+P0042,Himalaya Face Wash,Beauty,199
+P0043,Lakme Eyeliner,Beauty,349
+P0044,Philips LED Bulb Pack,Home,999
+P0045,Havells Ceiling Fan,Home,3499
+P0046,Butterfly Gas Stove,Home,7999
+P0047,Decathlon Yoga Mat,Sports,999
+P0048,SS Cricket Bat,Sports,4999
+P0049,Nivia Volleyball,Sports,899
+P0050,Speedo Swimming Goggles,Sports,799
+P0051,Treadmill Pro 2000,Sports,45999
+P0052,Under Armour Running Shorts,Fashion,2499
+P0053,Allen Solly Formal Shirt,Fashion,1999
+P0054,Zara Summer Dress,Fashion,3599
+P0055,H&M Casual Hoodie,Fashion,2299
+P0056,Lenovo ThinkPad Laptop,Electronics,55999
+P0057,Dell Inspiron Laptop,Electronics,48999
+P0058,Mi 4K Smart TV 55 inch,Electronics,42999
+P0059,Samsung Galaxy Watch,Electronics,19999
+P0060,Fire-Boltt Ninja Smartwatch,Electronics,2999
+P0061,Boat Airdopes 441,Electronics,2499
+P0062,JBL Flip 5 Speaker,Electronics,6999
+P0063,Sennheiser HD 450BT,Electronics,8999
+P0064,Bose QuietComfort 35,Electronics,24999
+P0065,Apple AirPods Pro,Electronics,24999
+P0066,Kindle Oasis,Electronics,18999
+P0067,Panasonic Microwave Oven,Home,10999
+P0068,Prestige Pressure Cooker,Home,2499
+P0069,Croma Juicer,Home,3499
+P0070,Godrej Single Door Refrigerator,Home,19999
+P0071,IFB Dishwasher,Home,34999
+P0072,Morphy Richards Kettle,Home,1999
+P0073,Havells Electric Iron,Home,1499
+P0074,Usha Ceiling Fan,Home,2599
+P0075,Orient Table Fan,Home,1799
+P0076,Pigeon Induction Stove,Home,3999
+P0077,Tupperware Lunch Box,Home,899
+P0078,Wonderchef Mixer Grinder,Home,4299
+P0079,Prestige Electric Rice Cooker,Home,3499
+P0080,Croma Bluetooth Speaker,Electronics,1599
+P0081,Acer Aspire 7 Laptop,Electronics,42999
+P0082,MSI Gaming Laptop,Electronics,69999
+P0083,Razer Gaming Mouse,Electronics,3999
+P0084,Logitech Wireless Keyboard,Electronics,2499
+P0085,HP LaserJet Printer,Electronics,12999
+P0086,Epson EcoTank Printer,Electronics,14999
+P0087,Canon PIXMA Printer,Electronics,8999
+P0088,GoPro Hero 9,Electronics,38999
+P0089,DJI Mavic Mini Drone,Electronics,54999
+P0090,SanDisk 128GB Pendrive,Electronics,1299
+P0091,WD 1TB External HDD,Electronics,3999
+P0092,Seagate 2TB Hard Drive,Electronics,5999
+P0093,Samsung EVO 512GB SSD,Electronics,8999
+P0094,Kingston 16GB RAM Stick,Electronics,4999
+P0095,ASUS ROG Gaming Phone,Electronics,57999
+P0096,Redmi Note 12 Pro,Electronics,23999
+P0097,Vivo V27,Electronics,27999
+P0098,Oppo Reno 10,Electronics,31999
+P0099,Realme Narzo 60,Electronics,21999
+P0100,Motorola Edge 40,Electronics,24999
+P0101,Samsung Galaxy Tab S8,Electronics,58999
+P0102,Apple iPad Air,Electronics,49999
+P0103,Lenovo Yoga Tablet,Electronics,34999
+P0104,Amazon Fire HD Tablet,Electronics,12999
+P0105,Xiaomi Pad 6,Electronics,28999
+P0106,Kindle Kids Edition,Electronics,9999
+P0107,Google Pixel 7,Electronics,57999
+P0108,OnePlus 11,Electronics,56999
+P0109,Realme GT Neo,Electronics,29999
+P0110,Nokia G60,Electronics,16999
+P0111,Asus Vivobook Laptop,Electronics,39999
+P0112,Honor MagicBook,Electronics,42999
+P0113,Acer Chromebook Spin,Electronics,21999
+P0114,HP Envy Laptop,Electronics,62999
+P0115,Dell XPS 13,Electronics,84999
+P0116,MacBook Pro M2,Electronics,129999
+P0117,Samsung Galaxy Book,Electronics,64999
+P0118,MSI Prestige Laptop,Electronics,74999
+P0119,AOC 27-inch Monitor,Electronics,16999
+P0120,Dell 24-inch Monitor,Electronics,13999
+P0121,LG Ultrawide Monitor,Electronics,29999
+P0122,Philips Curved Monitor,Electronics,21999
+P0123,Samsung Odyssey Monitor,Electronics,39999
+P0124,Sony Bravia 65-inch TV,Electronics,104999
+P0125,LG OLED 55-inch TV,Electronics,96999
+P0126,TCL 4K Smart TV 50-inch,Electronics,38999
+P0127,Vu Premium 43-inch TV,Electronics,28999
+P0128,Mi Smart TV 32-inch,Electronics,15999
+P0129,Nokia Smart TV 50-inch,Electronics,35999
+P0130,Panasonic 4K TV 55-inch,Electronics,44999
+P0131,Bajaj Room Heater,Home,2999
+P0132,Usha Sewing Machine,Home,7999
+P0133,Prestige Air Fryer,Home,6499
+P0134,Butterfly Mixer Grinder,Home,4499
+P0135,Sunflame Gas Stove,Home,6499
+P0136,Philips Induction Cooktop,Home,3499
+P0137,Hawkins Pressure Cooker,Home,2999
+P0138,Symphony Air Cooler,Home,12999
+P0139,Blue Star Water Purifier,Home,15999
+P0140,LG 1.5 Ton Split AC,Home,39999
+P0141,Voltas 1.5 Ton AC,Home,34999
+P0142,Daikin Inverter AC,Home,45999
+P0143,Hitachi Split AC,Home,41999
+P0144,O General 2 Ton AC,Home,61999
+P0145,Whirlpool 1 Ton AC,Home,31999
+P0146,Carrier 1.5 Ton AC,Home,35999
+P0147,Godrej 1 Ton AC,Home,29999
+P0148,Panasonic 1.5 Ton AC,Home,33999
+P0149,Samsung 2 Ton AC,Home,47999
+P0150,Mitsubishi Split AC,Home,52999
+P0151,Nike Sports T-Shirt,Fashion,1999
+P0152,Adidas Joggers,Fashion,2499
+P0153,Puma Hoodie,Fashion,2999
+P0154,Reebok Training Shorts,Fashion,1799
+P0155,Under Armour Tank Top,Fashion,1599
+P0156,H&M Denim Jacket,Fashion,3499
+P0157,Zara Formal Blazer,Fashion,6999
+P0158,Allen Solly Polo Shirt,Fashion,1499
+P0159,Van Heusen Tie,Fashion,999
+P0160,Levi’s Denim Jacket,Fashion,3999
+P0161,Lakme Lipstick,Beauty,599
+P0162,Maybelline Mascara,Beauty,449
+P0163,L’Oreal Foundation,Beauty,749
+P0164,Himalaya Neem Face Wash,Beauty,199
+P0165,Patanjali Aloe Vera Gel,Beauty,149
+P0166,Lotus Sunscreen SPF 50,Beauty,499
+P0167,Nivea Deodorant,Beauty,249
+P0168,Dove Hair Conditioner,Beauty,349
+P0169,Head & Shoulders Shampoo,Beauty,399
+P0170,Colgate MaxFresh Toothpaste,Beauty,199
+P0171,Yoga Mat Pro,Sports,1499
+P0172,Adidas Football,Sports,2999
+P0173,Nike Basketball,Sports,2599
+P0174,SS Cricket Gloves,Sports,1999
+P0175,Kookaburra Cricket Bat,Sports,7999
+P0176,Yonex Shuttlecock Pack,Sports,699
+P0177,Butterfly Table Tennis Bat,Sports,1599
+P0178,Stag TT Table,Sports,24999
+P0179,Speedo Swim Cap,Sports,499
+P0180,Reebok Gym Bag,Sports,2999
+P0181,Camping Tent 4-Person,Sports,9999
+P0182,Wildcraft Trekking Shoes,Sports,5499
+P0183,Decathlon Sleeping Bag,Sports,2999
+P0184,Nivia Skipping Rope,Sports,299
+P0185,SG Cricket Helmet,Sports,3499
+P0186,Spalding Volleyball,Sports,1899
+P0187,Everlast Boxing Gloves,Sports,4999
+P0188,Li-Ning Badminton Racket,Sports,3999
+P0189,Wilson Tennis Balls Pack,Sports,899
+P0190,Slazenger Tennis Shoes,Sports,5499
+P0191,The Alchemist,Books,399
+P0192,Atomic Habits,Books,499
+P0193,Rich Dad Poor Dad,Books,399
+P0194,Ikigai,Books,449
+P0195,Think and Grow Rich,Books,349
+P0196,The Power of Subconscious Mind,Books,299
+P0197,Sapiens: A Brief History,Books,599
+P0198,The Lean Startup,Books,549
+P0199,Python Crash Course,Books,699
+P0200,Data Science from Scratch,Books,899
