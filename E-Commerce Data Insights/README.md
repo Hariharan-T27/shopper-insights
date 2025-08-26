@@ -93,7 +93,7 @@ Here are a few visualizations from the analysis:
 ![Top Products](https://github.com/Hariharan-T27/shopper-insights/blob/main/E-Commerce%20Data%20Insights/output%20images/Top%20Products.png?raw=true)
 ![Category Sales](https://github.com/Hariharan-T27/shopper-insights/blob/main/E-Commerce%20Data%20Insights/output%20images/Pie%20Chart.png)
 ![Hourly Sales](https://github.com/Hariharan-T27/shopper-insights/blob/main/E-Commerce%20Data%20Insights/output%20images/Sales%20by%20Hour.png)
-![Top Customers](output_images/top_customers.png)
+![Top Customers](https://github.com/Hariharan-T27/shopper-insights/blob/main/E-Commerce%20Data%20Insights/output%20images/Top%20Selling.png)
 ![Top Ratings](https://github.com/Hariharan-T27/shopper-insights/blob/main/E-Commerce%20Data%20Insights/output%20images/Top%2010%20by%20Rating.png)
 
 ## 3. Interactive Dashboard (script.py)
