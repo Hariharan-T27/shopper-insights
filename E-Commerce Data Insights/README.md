@@ -91,7 +91,7 @@ Key analyses and visualizations include:
 Here are a few visualizations from the analysis:
 
 ![Top Products](https://github.com/Hariharan-T27/shopper-insights/blob/main/E-Commerce%20Data%20Insights/output%20images/Top%20Products.png?raw=true)
-![Category Sales](output_images/category_sales.png)
+![Category Sales](https://github.com/Hariharan-T27/shopper-insights/blob/main/E-Commerce%20Data%20Insights/output%20images/Pie%20Chart.png)
 ![Hourly Sales](output_images/hourly_sales.png)
 ![Top Customers](output_images/top_customers.png)
 ![Top Ratings](output_images/top_ratings.png)
