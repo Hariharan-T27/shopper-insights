@@ -90,11 +90,11 @@ Key analyses and visualizations include:
 ### Sample Output Visualizations
 Here are a few visualizations from the analysis:
 
-![Top Products](output_images/top_products.png)
-![Category Sales](output_images/category_sales.png)
-![Hourly Sales](output_images/hourly_sales.png)
-![Top Customers](output_images/top_customers.png)
-![Top Ratings](output_images/top_ratings.png)
+![Top Products](https://github.com/Hariharan-T27/shopper-insights/blob/main/E-Commerce%20Data%20Insights/output%20images/Top%20Products.png)
+![Category Sales](https://github.com/Hariharan-T27/shopper-insights/blob/main/E-Commerce%20Data%20Insights/output%20images/Pie%20Chart.png)
+![Hourly Sales](https://github.com/Hariharan-T27/shopper-insights/blob/main/E-Commerce%20Data%20Insights/output%20images/Sales%20by%20Hour.png)
+![Top Customers](https://github.com/Hariharan-T27/shopper-insights/blob/main/E-Commerce%20Data%20Insights/output%20images/Top%20Selling.png)
+![Top Ratings](https://github.com/Hariharan-T27/shopper-insights/blob/main/E-Commerce%20Data%20Insights/output%20images/Top%2010%20by%20Rating.png)
 
 ## 3. Interactive Dashboard (script.py)
 
