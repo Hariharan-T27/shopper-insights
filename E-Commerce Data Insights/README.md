@@ -131,8 +131,8 @@ font = "sans serif"
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/E-Commerce-Data-Insights.git
-cd E-Commerce-Data-Insights
+git clone https://github.com/Hariharan-T27/shopper-insights.git
+cd E-Commerce_Data_Insights
 ```
 
 ### 2. Install Dependencies
